@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Evolution of the Internet</title>
+</head>
+<body>
+    <h1>Introduction</h1>
+    <p>The internet has evolved enormously since its birth. It revolutionizes communication, marketing, and entertainment. This article explores the history of the Internet. The role of web standards and modern design principles that affect website development today.</p>
+
+    <h2>The Evolution of the Internet</h2>
+    <p>The Internet began as ARPANET in the 1960s, a U.S. military project created to connect research organizations. The introduction of the World Wide Web by Tim Berners-Lee in 1989 transformed the Internet into a global information-sharing network. The Web has since progressed through phases; From the static web pages of Web 1.0 to the interactive experiences of Web 2.0 and now the data-driven and AI-enabled Web 3.0. (A short history of the internet, 2020)</p>
+
+    <h2>The Importance of Web Standards</h2>
+    <p>Web standards developed by associations such as the World Wide Web Consortium help ensure that websites perform consistently across browsers and devices. These standards promote accessibility, maintenance, and compatibility, ensuring that all users have access to information regardless of technology.</p>
+
+    <h2>Key Concepts in Web Design and Development</h2>
+    <ol>
+        <li>
+            <strong>Graceful Degradation</strong><br>
+            Graceful degradation means creating websites that offer advanced features for modern browsers while maintaining essential functionality for older browsers. This approach ensures that content remains available even on older platforms. (Sheldon, 2023)
+        </li>
+        <li>
+            <strong>Progressive Enhancement</strong><br>
+            Progressive optimization focuses on creating a basic, usable version of your website that works on all devices, then adding advanced features for more powerful browsers. This approach emphasizes accessibility and functionality, providing a core experience to all users.
+        </li>
+        <li>
+            <strong>Responsive Web Design (RWD)</strong><br>
+            Responsive Web Design adjusts websites to different screen sizes using flexible designs and CSS media queries. This ensures a consistent and smooth user experience across devices, which is important since over 50% of web traffic now comes from mobile devices. (Published by StatCounter, 2024)
+        </li>
+        <li>
+            <strong>Mobile-First Web Design</strong><br>
+            Mobile-first design prioritizes building websites for mobile devices before adjusting them for bigger screens. This technique ensures that essential content and features are optimized for smaller screens, leading to faster load times and better user experiences. (Ivanova, 2024)
+        </li>
+        <li>
+            <strong>Future-Friendly Design</strong><br>
+            Future-friendly design involves creating websites that can adapt to new technologies and devices. This method makes sure that websites remain usable as technology evolves, decreasing the need for constant redesigns.
+        </li>
+    </ol>
+
+    <h2>Conclusion</h2>
+    <p>The evolution of web practices reflects the need to create web pages that are accessible, customizable, and ready for future trends. Web compliance using concepts such as graceful decline, progressive improvement, responsive design, mobile-first design, and future-friendly practices allows developers to provide a smooth experience to all users.</p>
+
+    <h2>References</h2>
+    <ul>
+       <li><a href="https://www.designrush.com/agency/website-design-development/trends/mobile-first-design">Ivanova, I. (2024, September 5). Mobile-first design: Why it matters, key elements, and 5 best examples. DesignRush</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/Progressive_Enhancement">MozDevNet. (n.d.). Progressive Enhancement - MDN Web Docs Glossary: Definitions of Web-related terms. MDN Web Docs</a></li>
+        <li><a href="https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet">National Science and Media Museum. (2020, December 3). A short history of the Internet. Science and Media Museum</a></li>
+        <li><a href="https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/">Published by StatCounter. (2024, January 25). Global Mobile Traffic 2023. Statista</a></li>
+        <li><a href="https://www.techtarget.com/searchnetworking/definition/graceful-degradation#:~:text=Graceful%20degradation%20is%20the%20ability,is%20to%20prevent%20catastrophic%20failure.">Sheldon, R. (2023a, May 2). What is graceful degradation? Definition from TechTarget. Networking</a></li>
+        <li><a href="https://www.w3.org/standards/">W3C. (n.d.). Web standards. W3C</a></li>
+        <li><a href="https://www.w3schools.com/css/css_rwd_intro.asp">W3schools.com. Responsive Web Design Introduction. W3Schools</a></li>
+    </ul>
+</body>
+</html>
+
+
