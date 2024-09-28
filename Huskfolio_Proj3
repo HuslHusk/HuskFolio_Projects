@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Comparative Analysis of Wikipedia and CNN</title>
+    <link href="https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@400&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Encode Sans SC', sans-serif;
+            background-color: #2c2c2c; 
+            color: #39ff14; 
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #ffffff; 
+        }
+        p {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Comparative Analysis of Wikipedia and CNN</h1>
+
+<p>This analysis compares Wikipedia, the collaborative encyclopedia, with CNN, the news platform. Both serve distinct purposes but share parallels in design and functionality.</p>
+
+<p>Wikipedia features a simple, text-focused layout that prioritizes content and utilizes semantic HTML elements like article, section, and nav to enhance navigation and accessibility. Its muted color palette, dominated by whites and light grays, and left-aligned text promote readability, making it user-friendly for readers of all ages and backgrounds. The minimalist design reduces distractions, allowing users to focus on the information. Wikipedia’s approach enables in-depth exploration, with links in the text that guide users to related topics, enriching their understanding of more complex subjects. Additionally, the consistent layout across different articles and devices makes it easier for users to browse the site without confusion.</p>
+
+<p>In contrast, CNN employs a bold, dynamic design filled with images, videos, and advertisements, which is one of the main reasons I don't enjoy using news sites. The platform utilizes HTML elements like header, footer, and aside to organize content effectively, with a clear hierarchy that directs users’ attention to breaking news and hot stories. The bold color scheme, usually featuring red, white, and black, attracts attention, while varied alignments and grid layouts highlight the different sections, creating a visually engaging experience. However, this richness can lead to information overload, where users might feel overwhelmed by the sheer volume of content vying for their attention. CNN’s design choices are tailored to engage a broad audience and make money, causing them to detract from users seeking straightforward information, as the layout can sometimes obscure instead of clarify important news updates.</p>
+
+<p>Wikipedia and CNN utilize navigation tools to help users find information quickly, though their approaches differ significantly in effectiveness and execution. Wikipedia uses a straightforward search function and well-organized, clear-cut categories, allowing users to explore topics quickly and easily. Each article typically includes a table of contents, allowing users to jump to specific sections, and improving overall usability. In comparison, CNN's navigation is far more unique; it includes sections for trending news and real-time updates that appeal to those seeking the hottest stories yet distract people trying to find specific stories, which is a tactic I find annoying. This approach effectively engages some visitors but can sometimes lead to information overload, causing many users to feel pressured to keep up with fast-paced news updates.</p>
+
+<p>Wikipedia's ease of use stems from its focus on clear, concise language and well-organized content, making it highly accessible to many daily users, including those with learning disabilities and physical handicaps. The site also provides alt text for images, ensuring visually impaired users can access information through screen readers. CNN, while usually accessible, may encounter challenges due to its dependence on multimedia content. Users with slower internet connections, older devices, or even devices with decent processors may experience difficulties loading videos or high-resolution images, which could interfere with their ability to access the news. Therefore, while both sites aim for accessibility, their effectiveness varies based on their vastly different design choices.</p>
+
+<p>The writing styles differ, with Wikipedia adopting a formal tone suitable for an encyclopedia, while CNN maintains a professional yet accessible style to engage a broad audience. Typography complements this distinction, with Wikipedia being flexible with fonts across all devices and CNN favoring a font they made themselves called CNN Sans. Performance-wise, Wikipedia is known for fast loading times due to its minimalistic design, while CNN’s visually rich layout can slow down on some devices, like mine, indicating a need for optimization.</p>
+
+<p>In summary, accessibility is crucial; Wikipedia excels in simplicity and clarity, ensuring high accessibility, while CNN captivates users with engaging design but faces challenges in performance and accessibility. Both demonstrate the need for effective web design to meet diverse user needs.</p>
+
+</body>
+</html>
