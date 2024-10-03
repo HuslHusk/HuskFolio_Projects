@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HuskFolio</title>
+    <style>
+        body {
+            font-family: 'Encode Sans SC', sans-serif;
+            background-color: #2c2c2c; 
+            color: #39ff14; 
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            text-align: center;
+        }
+        h2 {
+            margin: 0; /* Remove default margin */
+            padding: 0; /* Remove default padding */
+        }
+    </style>
+</head>
+<body>
+
+<h1>HuskFolio</h1>
+
+<h2>Art</h2>
+<p>General art and character design showcase.</p>
+
+<h2>About me</h2>
+<p>“Hello and welcome to my website! My name is Husk and my real name is none of your concern! I am a 16-year-old black trans male, and I enjoy drawing (obviously) and playing different types of games. Occasionally, I engage in some silly, goofy writing. My favorite games include Cult of the Lamb, Pokémon, Minecraft, and Just Shapes and Beats. If you plan to employ or commission me, contact me, even if my commissions are not open. And if you're just looking to chat, bring up any type of video game lore, and you'll have me hook, line, and sinker =].”<br>
+This is partially just my Baker College profile description but edited. The part about me being a black trans will more than likely be edited or taken out since I don't like to flaunt or be judged by my race or gender identity even though it is “important” information.</p>
+
+<h2>Updates</h2>
+<p>A blog on my life, occasionally random ideas, and side projects. May be renamed to blog in the future.</p>
+
+<h2>Contact</h2>
+<p>Phone number: [Insert phone number here]<br>
+Discord: HuslHusk_TheMeme<br>
+Email: Huslhusk@gmail.com</p>
+
+<h2>Commissions</h2>
+<p>For if I ever open commissions. I plan on opening them one day.</p>
+
+<h2>SMP</h2>
+<p>My current main project. SMP-related updates and character art would go here.</p>
+
+</body>
+</html>
